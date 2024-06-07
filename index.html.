@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Make Money Online</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; }
+        header { background-color: #4CAF50; color: white; padding: 1em 0; text-align: center; }
+        main { padding: 2em; }
+        .content { margin: 0 auto; max-width: 600px; }
+        .card { background: white; padding: 1em; margin: 1em 0; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #333; }
+        a { color: #4CAF50; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Make Money Online</h1>
+    </header>
+    <main>
+        <div class="content">
+            <div class="card">
+                <h2>Affiliate Marketing</h2>
+                <p>Join our affiliate program and earn commissions for every sale made through your referral link. <a href="#">Sign up here</a>.</p>
+            </div>
+            <div class="card">
+                <h2>Ad Revenue Sharing</h2>
+                <p>Earn a share of the ad revenue generated from your visits. <a href="#">Learn more</a>.</p>
+            </div>
+            <div class="card">
+                <h2>Referral Programs</h2>
+                <p>Refer friends to our website and earn bonuses when they participate in any of our earning opportunities. <a href="#">Get your referral link</a>.</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
